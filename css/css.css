@@ -117,7 +117,7 @@ body {
     color: #FFFFFF;
     margin-bottom: 50px;
     width: fit-content;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .introduction_title {
     font-weight: 900;
@@ -149,8 +149,8 @@ body {
 }
 .introduction_img {
     position: absolute;
-    right: -364px;
-    top: 39px;
+    right: -398px;
+    top: -3px;
 }
 .introduction_wrapper_img {
     margin-right: 25px;

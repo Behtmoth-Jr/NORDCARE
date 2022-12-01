@@ -117,7 +117,7 @@ body {
     color: #FFFFFF;
     margin-bottom: 50px;
     width: fit-content;
-    margin-top: 90px;
+    margin-top: 50px;
 }
 .introduction_title {
     font-weight: 900;
@@ -149,8 +149,8 @@ body {
 }
 .introduction_img {
     position: absolute;
-    right: -333px;
-    top: -2px;
+    right: -364px;
+    top: 39px;
 }
 .introduction_wrapper_img {
     margin-right: 25px;
@@ -161,6 +161,7 @@ body {
     background-color: #0B304F;
     border-radius: 6px;
     flex: 0 0 45px;
+    position: relative;
 }
 .img-square {
     display: block;
@@ -173,19 +174,19 @@ body {
 }
 .img-square--bottom{
     position: absolute;
-    bottom: 94px;
+    bottom: -9px;
 }
 .img-square--left {
     position: absolute;
-    left: -9px;;
+    left: -6px;;
 }
 .img-square--top {
     position: absolute;
-    bottom: 214px;
+    bottom: 37px;
 }
 .img-square--right {
     position: absolute;
-    left: 420px;
+    left: 37px;
 }
 .main_partners {
     margin-top: 90px;

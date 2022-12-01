@@ -156,10 +156,22 @@ body {
     position: relative;
     justify-content: flex-end;
     margin-top: 42px;
+    height: 54px;
+    align-items: center;
 }
-.scrollbar {
+.swiper_nav {
     position: relative;
     width: 400px;
+}
+.btn-prev {
+    left: -30px;
+    top: -4px;
+    position: relative;
+}
+.btn-next {
+    top: -4px;
+    right: -30px;
+    position: relative;
 }
 .introduction_wrapper_img {
     margin-right: 25px;

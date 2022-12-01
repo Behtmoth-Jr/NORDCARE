@@ -152,6 +152,15 @@ body {
     right: -398px;
     top: -3px;
 }
+.scroll {
+    position: relative;
+    justify-content: flex-end;
+    margin-top: 42px;
+}
+.scrollbar {
+    position: relative;
+    width: 400px;
+}
 .introduction_wrapper_img {
     margin-right: 25px;
     display: flex;

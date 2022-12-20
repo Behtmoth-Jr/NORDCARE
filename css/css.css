@@ -623,7 +623,7 @@ body {
         display: none;
     }
     .logo {
-        max-width: 360px;
+        max-width: 50px;
     }
     .htext {
         font-size: 15px;
@@ -639,6 +639,6 @@ body {
         display: none;
     }
     .wrapper {
-        max-width: 412px;
+        max-width: 367px;
     }
 }

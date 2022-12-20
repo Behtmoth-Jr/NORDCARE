@@ -588,7 +588,7 @@ body {
     margin-right: 25px;
 }
 
-@media screen and (max-width:768px) {
+/* @media screen and (max-width:768px) {
     .header{
         margin: 20px 45px 0px 45px;
     }
@@ -610,9 +610,9 @@ body {
     .li_a{
         font-size: 12px;
     }
-}
+} */
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:768px) {
     .header {
         margin: 8px 10px 0px 15px;
     }

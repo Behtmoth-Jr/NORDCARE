@@ -623,7 +623,7 @@ body {
         display: none;
     }
     .logo {
-        max-width: 50px;
+        max-width: 360px;
     }
     .htext {
         font-size: 15px;

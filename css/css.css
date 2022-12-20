@@ -612,7 +612,7 @@ body {
     }
 } */
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:412px) {
     .header {
         margin: 8px 10px 0px 15px;
     }
@@ -639,6 +639,6 @@ body {
         display: none;
     }
     .wrapper {
-        max-width: 768px;
+        max-width: 412px;
     }
 }

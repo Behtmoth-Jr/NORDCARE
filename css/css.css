@@ -641,4 +641,7 @@ body {
     .wrapper {
         max-width: 367px;
     }
+    .tech img {
+        display: none;
+    }
 }

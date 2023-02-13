@@ -435,6 +435,7 @@ body {
 .tech_item_img {
     text-align: center;
     margin: 50px auto;
+    max-width: 100%;
 }
 .tech_item_info_column  {
     flex-wrap: wrap;
@@ -641,7 +642,7 @@ body {
     .wrapper {
         max-width: 367px;
     }
-    .tech img {
+    .tech_item img {
         display: none;
     }
 }

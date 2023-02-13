@@ -645,4 +645,7 @@ body {
     .tech_item img {
         display: none;
     }
+    .tech_item_img img {
+        max-width: 100%;
+    }
 }

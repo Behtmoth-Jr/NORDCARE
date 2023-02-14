@@ -651,6 +651,16 @@ body {
     .tech_tampon {
         flex-direction: column;
     } 
+    .advantages_wrapper_item {
+        flex-direction: column;
+    }
+    .advantages_square_small {
+        display: none;
+    }
+    .advantages_square_large {
+        left: 45%;
+        bottom: 179px;
+    }
     .tech_item_adv {
         margin-top: 41px;
     }

@@ -668,6 +668,12 @@ body {
         max-width: 100%;
         margin-bottom: 38px;
     }
+    .header {
+        position: fixed;
+        background: #f6fafa;
+        z-index: 5;
+        max-width: 100%;
+    }
     .tech_item_adv {
         margin-top: 41px;
     }

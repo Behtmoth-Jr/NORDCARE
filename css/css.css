@@ -661,6 +661,13 @@ body {
         left: 45%;
         bottom: 179px;
     }
+    .about_wrapper { 
+        flex-direction: column;
+    }
+    .about_wrapper_item img {
+        max-width: 100%;
+        margin-bottom: 38px;
+    }
     .tech_item_adv {
         margin-top: 41px;
     }

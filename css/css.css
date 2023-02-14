@@ -614,9 +614,6 @@ body {
 } */
 
 @media screen and (max-width:412px) {
-    .header {
-        margin: 8px 10px 0px 15px;
-    }
     .time {
         display: none;
     }
@@ -638,9 +635,6 @@ body {
     }
     .nav {
         display: none;
-    }
-    .wrapper {
-        max-width: 367px;
     }
     .tech_item img {
         display: none;

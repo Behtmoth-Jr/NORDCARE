@@ -648,4 +648,13 @@ body {
     .tech_item_img img {
         max-width: 100%;
     }
+    .tech_tampon {
+        flex-direction: column;
+    } 
+    .tech_item_adv {
+        margin-top: 41px;
+    }
+    .scroll {
+        display: none;
+    }
 }

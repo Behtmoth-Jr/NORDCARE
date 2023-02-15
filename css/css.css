@@ -729,4 +729,7 @@ body {
     .footer {
         padding: 29px 20px;
     }
+    .copy {
+        padding: 0;
+    }
 }

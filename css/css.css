@@ -687,6 +687,8 @@ body {
         background: #f6fafa;
         z-index: 5;
         max-width: 100%;
+        padding-bottom: 10px;
+        padding-top: 10px;
     }
     .about {
         padding: 15px;

@@ -674,4 +674,10 @@ body {
     .scroll {
         display: none;
     }
+    .partners_wrapper {
+        overflow: scroll;
+    }
+    .partners_wrapper img {
+        margin-right: 60px;
+    }
 }

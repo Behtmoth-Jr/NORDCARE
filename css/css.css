@@ -702,6 +702,7 @@ body {
         margin-top: 41px;
         width: 100%;
         margin-right: 0;
+        flex: none;
     }
     .tech_item_ingo_small {
         flex: auto;

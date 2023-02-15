@@ -726,4 +726,7 @@ body {
     .partners_wrapper img {
         margin-right: 60px;
     }
+    .footer {
+        padding: 29px 15px;
+    }
 }

@@ -653,7 +653,7 @@ body {
     }
     .advantages_square_large {
         left: 45%;
-        bottom: 179px;
+        bottom: 143px;
     }
     .about_wrapper { 
         flex-direction: column;
@@ -667,6 +667,9 @@ body {
     }
     .advantages_wrapper {
         flex-direction: column;
+    }
+    .advantages_wrapper_square_item {
+        display: none;
     }
     .header {
         position: fixed;

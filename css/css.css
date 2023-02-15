@@ -651,6 +651,7 @@ body {
     }
     .tech {
         padding: 15px;
+        margin-top: 0%;
     }
     .adv_img {
         display: none;
@@ -703,6 +704,9 @@ body {
         width: 100%;
         margin-right: 0;
         flex: none;
+    }
+    .tech_item {
+        margin-top: 55px;
     }
     .tech_item_ingo_small {
         flex: auto;

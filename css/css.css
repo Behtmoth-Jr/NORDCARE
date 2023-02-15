@@ -636,9 +636,6 @@ body {
     .nav {
         display: none;
     }
-    .tech_item img {
-        display: none;
-    }
     .tech_item_img img {
         max-width: 100%;
     }
@@ -647,6 +644,20 @@ body {
     } 
     .advantages_wrapper_item {
         flex-direction: column;
+    }
+    .H1 {
+        font-size: 24px;
+        margin-bottom: 28px;
+    }
+    .tech {
+        padding: 15px;
+    }
+    .adv_img {
+        display: none;
+    }
+    .tech_item_head_wrapper {
+        flex-direction: column;
+        margin-bottom: 25px;
     }
     .advantages_square_small {
         display: none;
@@ -681,19 +692,30 @@ body {
         padding: 15px;
     }
     .about_info {
-        padding-left: 0%;
+        padding-left: 0;
     }
     .advantages {
         padding-left: 15px;
     }
     .tech_item_adv {
         margin-top: 41px;
+        padding: 34px 45px 40px;
+        margin-right: 0;
+    }
+    .tech_item_ingo_small {
+        flex: auto;
     }
     .scroll {
         display: none;
     }
     .partners_wrapper {
         overflow: scroll;
+    }
+    .main_partners_title {
+        padding-left: 15px;
+    }
+    .tech_item_head_wrapper::before {
+        display: none;
     }
     .partners_wrapper img {
         margin-right: 60px;

@@ -677,6 +677,15 @@ body {
         z-index: 5;
         max-width: 100%;
     }
+    .about {
+        padding: 15px;
+    }
+    .about_info {
+        padding-left: 0%;
+    }
+    .advantages {
+        padding-left: 15px;
+    }
     .tech_item_adv {
         margin-top: 41px;
     }

@@ -662,6 +662,12 @@ body {
         max-width: 100%;
         margin-bottom: 38px;
     }
+    .advantages_wrapper_item img {
+        width: 35%;
+    }
+    .advantages_wrapper {
+        flex-direction: column;
+    }
     .header {
         position: fixed;
         background: #f6fafa;

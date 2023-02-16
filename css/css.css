@@ -705,6 +705,9 @@ body {
         margin-right: 0;
         flex: none;
     }
+    .introduction_img {
+        display: none;
+    }
     .tech_item {
         margin-top: 55px;
     }

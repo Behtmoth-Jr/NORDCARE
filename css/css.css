@@ -708,6 +708,12 @@ body {
     .introduction_img {
         display: none;
     }
+    .introduction_wrapper {
+        flex-direction: column;
+    }
+    .main_introduction {
+        padding-left: 15px;
+    }
     .tech_item {
         margin-top: 55px;
     }
@@ -722,6 +728,9 @@ body {
     }
     .main_partners_title {
         padding-left: 15px;
+    }
+    .main_partners {
+        margin-top: 15px;
     }
     .tech_item_head_wrapper::before {
         display: none;

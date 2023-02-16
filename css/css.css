@@ -693,6 +693,12 @@ body {
     .about {
         padding: 15px;
     }
+    .main_introduction {
+        overflow: hidden;
+    }
+    .introduction_img {
+        z-index: -1;
+    } 
     .about_info {
         padding-left: 0;
     }
